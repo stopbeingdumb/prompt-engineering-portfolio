@@ -1,6 +1,6 @@
 # About Me
 
-> *[One professional line: who you are and what you focus on, for example: "Student exploring AI and prompt engineering, building a portfolio of practical, well-documented prompts."]*
+I am student exploring AI and prompt engineering, building a portfolio of practical, well-documented prompts.
 
 ## Instructions for Use (delete this section when you write your own)
 
