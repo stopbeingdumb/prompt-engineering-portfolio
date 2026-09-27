@@ -16,30 +16,26 @@ Write it the way you would introduce yourself to a mentor or a hiring manager: c
 
 ## Who I Am
 
-[A short, professional introduction. Who you are as a student or aspiring professional, and the direction you are headed. Two or three sentences is plenty.]
-
+Hi! I’m a high school student who is just starting to dive into the world of programming. While I haven't spent a ton of time coding yet, I am really curious about how software works and I am officially starting my journey to learn how to build things myself.
 ## My Interest in AI
 
-[What specifically interests you about AI and prompt engineering. Be specific rather than saying "I like AI." For example, the kinds of problems you want to solve or the tools you enjoy working with.]
-
+My main goal right now is learning how to code, and I honestly just look at AI as a helpful tool to get me there. I am exploring prompt engineering mostly so I can use AI as a sort of personal tutor. I want to learn how to ask it the right questions so it can explain confusing coding concepts to me, give me beginner practice problems, or help me figure out why my code isn't working.
 ## Skills and Focus Areas
 
 [List the skills you are developing or want to develop. Keep it professional and relevant.]
-- [Skill or focus area 1]
-- [Skill or focus area 2]
-- [Skill or focus area 3]
+Learning the Basics: Getting started with the fundamentals of programming and learning languages like Python.
+Using AI to Learn: Writing clear prompts so AI can explain code to me simply, rather than just giving me the answer.
+Problem Solving: Getting comfortable with making mistakes and learning how to troubleshoot my own work.
 
 ## Goals
 
-[Your academic or career goals. Where you would like this work to take you, for example a field you want to study or a type of role you are aiming for.]
-
+My immediate goal is to build a solid foundation in coding and finish my very first real projects. Down the road, I plan to go to college and possibly major in Computer Science or a related field to see if software development is a career I want to pursue.
 ## What You Will Find in This Portfolio
 
-[A short description of what a visitor can explore here, for example your documented prompts and the design thinking behind them.]
-
+This site is basically a log of my beginner's journey into tech. Inside, you'll find my early coding notes, small starter projects, and the specific AI prompts I'm using to help teach myself programming along the way.
 ## Connect
 
-[Professional contact only. Choose what you are comfortable making public.]
-- GitHub: [your GitHub profile link]
-- Email: [a professional or school email, optional]
-- LinkedIn: [your LinkedIn profile, optional]
+
+
+- Email: littlerad2008@gmail.com
+
