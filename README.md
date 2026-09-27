@@ -13,7 +13,7 @@ Hi! I’m a high school student who is just starting to dive into the world of p
 My main goal right now is learning how to code, and I honestly just look at AI as a helpful tool to get me there. I am exploring prompt engineering mostly so I can use AI as a sort of personal tutor. I want to learn how to ask it the right questions so it can explain confusing coding concepts to me, give me beginner practice problems, or help me figure out why my code isn't working.
 ## Skills and Focus Areas
 
-[List the skills you are developing or want to develop. Keep it professional and relevant.]
+
 Learning the Basics: Getting started with the fundamentals of programming and learning languages like Python.
 Using AI to Learn: Writing clear prompts so AI can explain code to me simply, rather than just giving me the answer.
 Problem Solving: Getting comfortable with making mistakes and learning how to troubleshoot my own work.
